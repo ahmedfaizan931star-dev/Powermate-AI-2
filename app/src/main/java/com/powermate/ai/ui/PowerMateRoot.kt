@@ -6,7 +6,6 @@ import com.powermate.ai.export.HistoryExportManager
 import android.graphics.Color as AndroidColor
 import com.powermate.ai.R
 import androidx.compose.foundation.backgroun
-import androidx.compose.foundation.Canvas
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.StrokeCap
